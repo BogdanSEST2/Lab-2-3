@@ -1,0 +1,7 @@
+C:\Users\Bog_1\source\repos\Complex\Complex\bin\Debug\Complex.exe.config
+C:\Users\Bog_1\source\repos\Complex\Complex\bin\Debug\Complex.exe
+C:\Users\Bog_1\source\repos\Complex\Complex\bin\Debug\Complex.pdb
+C:\Users\Bog_1\source\repos\Complex\Complex\obj\Debug\Complex.csproj.AssemblyReference.cache
+C:\Users\Bog_1\source\repos\Complex\Complex\obj\Debug\Complex.csproj.CoreCompileInputs.cache
+C:\Users\Bog_1\source\repos\Complex\Complex\obj\Debug\Complex.exe
+C:\Users\Bog_1\source\repos\Complex\Complex\obj\Debug\Complex.pdb
